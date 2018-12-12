@@ -1,0 +1,4 @@
+f2 line1 a 1
+f2 line2 b 2
+f2 line3 c 3
+f2 line4 d 4
